@@ -14,7 +14,8 @@
 
 - FogTuSimple 
 
-  链接：https://pan.quark.cn/s/2b9300b23d3c提取码：uUCi
+  链接：https://pan.quark.cn/s/2b9300b23d3c
+  提取码：uUCi
 
 ## Benchmark
 
