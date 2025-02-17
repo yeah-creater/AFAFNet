@@ -1,4 +1,4 @@
-# Enhanced Lane Detection in Foggy Conditions via Adaptive Feature Attention Fusion Network
+# Adaptive Feature Attention Fusion Network for Lane Detection in Foggy Conditions
 
 
 
